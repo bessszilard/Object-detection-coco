@@ -1,4 +1,4 @@
-# CarND Object Detection Lab
+# CarND Object Detection Lab 
 
 ![](assets/clip.gif)
 
